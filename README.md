@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://twitter.com/oofx22" target="blank"><img src="https://img.shields.io/twitter/follow/oofx22?logo=twitter&style=for-the-badge" alt="oofx22" /></a> </p>
 -    Cyber Security Researcher 
-- 🌱 I’m currently learning **Solidity and Rust**
+- 🌱 I’m currently learning **Solidity and Blockchain Security**
 
 - 💬 Ask me about **NEAR, Cybersecurity ,Blockchain,Docker,linux and Javascript**
 
