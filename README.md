@@ -4,7 +4,7 @@
 <h1 align="center"> </h1>
 
 <h3 align="center"></h3>
-<img align="right" alt="Coding" width="400" src="https://imgur.com/KrXcoSz">
+<img align="right" alt="Coding" width="400" src="https://i.imgur.com/KrXcoSz.png">
 
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thomas-codes&label=Profile%20views&color=0e75b6&style=flat" alt="thomas-codes" /> </p>
