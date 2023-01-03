@@ -4,7 +4,7 @@
 <h1 align="center"> </h1>
 
 <h3 align="center"></h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/developer-activity-concept-illustration_114360-2801.jpg?t=st=1655639737~exp=1655640337~hmac=e26eadf4069acf1b4e94e9cb74fe96a3b495dd18b186981e3994283b082bbbcb&w=740"">
+<img align="right" alt="Coding" width="400" src="https://imgur.com/KrXcoSz">
 
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thomas-codes&label=Profile%20views&color=0e75b6&style=flat" alt="thomas-codes" /> </p>
