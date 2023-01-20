@@ -10,12 +10,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thomas-codes&label=Profile%20views&color=0e75b6&style=flat" alt="thomas-codes" /> </p>
 
 <p align="left"> <a href="https://twitter.com/oofx22" target="blank"><img src="https://img.shields.io/twitter/follow/oofx22?logo=twitter&style=for-the-badge" alt="oofx22" /></a> </p>
--    Cyber Security Researcher 
-- 🌱 I’m currently learning **Solidity and Blockchain Security**
+- I am a Front-End Developer | Cyber Security Enthusiast
 
-- 💬 Ask me about **NEAR, Cybersecurity ,Blockchain,Docker,linux and Javascript**
 
-- 📫 How to reach me **thmscodes@gmail.com**
+-  I’m currently learning **Solidity and Blockchain Security**
+
+-  Ask me about **NEAR, Cybersecurity ,Blockchain,Docker,linux and Javascript**
+
+-  How to reach me **thmscodes@gmail.com**
+-  Portfolio https://thomascodes.netlify.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
