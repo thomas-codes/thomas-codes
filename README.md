@@ -13,9 +13,9 @@
 - I am a Front-End Developer | Cyber Security Enthusiast
 
 
--  I’m currently learning **Solidity and Blockchain Security**
+ -  I’m currently learning **Solidity and Blockchain Security**
 
--  Ask me about **NEAR, Cybersecurity ,Blockchain,Docker,linux and Javascript**
+-  Ask me about **Cybersecurity, Web Application Security ,Blockchain,Docker,linux and Javascript**
 
 -  How to reach me **thmscodes@gmail.com**
 -  Portfolio https://thomascodes.netlify.app/
