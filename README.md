@@ -10,13 +10,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thomas-codes&label=Profile%20views&color=0e75b6&style=flat" alt="thomas-codes" /> </p>
 
 <p align="left"> <a href="https://twitter.com/oofx22" target="blank"><img src="https://img.shields.io/twitter/follow/oofx22?logo=twitter&style=for-the-badge" alt="oofx22" /></a> </p>
-- I am a Front-End Developer | Cyber Security Enthusiast
-
-
- -  I’m currently learning **Solidity and Blockchain Security**
-
--  Ask me about **Cybersecurity, Web Application Security ,Blockchain,Docker,linux and Javascript**
-
+- I am a Blockchain Developer,Front-End Developer | Cyber Security Enthusiast
 -  How to reach me **thmscodes@gmail.com**
 -  Portfolio https://thomascodes.netlify.app/
 
